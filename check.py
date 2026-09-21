@@ -1,4 +1,3 @@
-python
 #!/usr/bin/env python3
 """
 Checks every configs/*.json against WMATA's real-time predictions and
